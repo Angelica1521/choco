@@ -1,0 +1,37 @@
+*{
+	margin:0px;
+	padding:0px;	  
+}
+		
+   
+body{
+	text-align:center;
+	background-image:url(../img/v8.jpg);
+
+	
+	}
+
+
+.v{
+	color:red;
+	font-style: italic;
+}
+
+.uno{
+color:#4B0082;
+ font:bold 35px Z5,verdana,sans-serif;
+
+}
+
+.dos{
+color:#4B0082;
+ font:bold 25px Z5,verdana,sans-serif;
+}
+
+.p1{
+	height:100px;
+	width:200px;
+	margin-left:20px;
+	margin-top:20px;
+
+}

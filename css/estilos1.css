@@ -1,0 +1,174 @@
+*{
+	margin:0px;
+	padding:0px;	  
+}
+
+		    
+
+body{
+	text-align:center;
+	background-image:url(../img/12.jpg);
+	}
+
+
+	
+
+
+.v{
+	color:red;
+	font-style: italic;
+}
+	
+#toggle{
+	display:none;
+}
+
+#buton{
+	display:block;
+	width:33px;
+	height:33px;
+	background:pink;
+	line-height:33px;
+	text-align:center;
+	font-size:20px;
+	border-radius:50%;
+	color:#FF1493;
+	cursor:pointer;
+	box-shadow:0 12px 30px rgba(0,0,0,0.7);
+	z-index:100;
+	position:absolute;
+	bottom:6px;
+	margin-left:15px;	
+	margin-bottom:230px;
+	
+
+	
+}
+
+#toggle:checked + #buton{
+	background:pink;
+	box-shadow:inset 0 12px 35px rgba(0,0,0,0.5);
+	color:#FFF0F5;
+}
+
+
+#toggle2{
+	display:none;
+}
+
+#buton2{
+	display:block;
+	width:33px;
+	height:33px;
+	background:pink;
+	line-height:33px;
+	text-align:center;
+	font-size:20px;
+	border-radius:50%;
+	color:#FF1493;
+	cursor:pointer;
+	box-shadow:0 12px 30px rgba(0,0,0,0.7);
+	z-index:100;
+	position:absolute;
+	bottom:6px;
+	margin-left:900px;
+	margin-bottom:230px;
+	
+
+	
+}
+
+#toggle2:checked + #buton2{
+	background:pink;/*cuando das click cambia el color*/
+	box-shadow:inset 0 12px 35px rgba(0,0,0,0.5);/*sombra dentro del texto*/
+	color:#FFF0F5;/*color dentro del boton*/
+}
+
+.clio{
+	position:absolute;
+	visibility:hidden;
+	opacity:0;
+	
+	
+}
+
+.clio img{
+	
+	position:relative;
+	
+}
+
+.mino{
+	position:absolute;
+	top:93%;
+	width:100%;
+	text-align:center;
+	z-index:100;
+}
+.tauro{
+	display:inline-block;
+	width:10px;
+	height:10px;
+	background-color:#FF69B4;
+	border-radius:50%;
+	margin-right:5px;
+	z-index:100;
+
+	}
+	
+	.tauro:hover{
+	cursor:pointer;
+	background-color:#FFF8DC;
+	}
+	
+	
+	
+.actual{
+	visibility:visible;
+	opacity:1;
+	transition:visibility 1s, opacity 1s;
+	
+}
+
+.activo{
+	background-color:#9400D3;
+}
+
+.uno{
+color:black;
+ font:bold 30px Z5,verdana,sans-serif;
+
+}
+
+.dos{
+color:black;
+ font:bold 30px Z5,verdana,sans-serif;
+
+}
+
+.xoxo{
+	margin-left:20px;
+	margin-top:20px;
+	height:100px;
+	width:200px;
+	
+}
+
+.p{
+	width:950px;
+	height:516px;
+	margin-left:-19px;
+}
+
+.p1{
+	width:950px;
+	height:516px;
+	margin-left:-19px;
+}
+
+.p2{
+	 width:950px;
+	 height:516px;
+	 margin-left:-19px;
+}
+
