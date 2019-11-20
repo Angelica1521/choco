@@ -1,0 +1,180 @@
+*{
+	margin:0px;
+	padding:0px;	  
+}
+
+   
+		
+
+body{
+	text-align:center;
+	background-image:url(IMG/ru36.jpg);
+	
+	}
+
+
+.v{
+	color:red;
+	font-style: italic;
+}
+
+.uno{
+color:#FF4500;
+ font:bold 35px Z5,verdana,sans-serif;
+
+}
+
+.dos{
+ color:#4B0082;
+ font:bold 20px Z5,verdana,sans-serif;
+}
+
+
+#cleopatra{
+ 
+ text-align:center;
+}
+
+h3{
+	color:black;
+	margin-right:80px;
+ font:bold 40px Z5,verdana,sans-serif;
+}
+	
+.a{
+	color:black;
+ font:bold 25px Z5,verdana,sans-serif;
+ border-radius:5px;
+ padding:20px;
+ 
+
+
+}
+
+	
+.b{
+	color:purple;
+	font:bold 20px Z5,verdana,sans-serif;
+ 	float: center;
+	cursor:pointer;
+	margin-left:100px;
+	margin-top:-300px;
+
+}
+
+	
+.c{
+	
+ width:300px;
+ height:35px;
+ border-radius:20px;
+margin-bottom:50px;
+
+}
+
+.c1{
+	
+ width:300px;
+ height:35px;
+ border-radius:20px;
+margin-bottom:50px;
+margin-left:20px;
+
+}
+
+
+
+.d{
+ color:white;
+ width:280px;
+ height:30px;
+ border-radius:20px;
+ margin-left:-20px;
+
+}
+
+.e{
+	color:purple;
+ font:bold 20px Z5,verdana,sans-serif;
+	cursor:pointer;
+	margin-right:200px;
+	margin-top:-20px;
+
+}
+
+.x{
+	color:black;
+	font:bold 25px Z5,verdana,sans-serif;
+	margin-right:300px;
+	
+}
+
+.x1{
+	
+ width:300px;
+ height:35px;
+ border-radius:20px;
+margin-left:40px;
+
+
+}
+.z{
+
+color:black;
+ font:bold 25px Z5,verdana,sans-serif;
+ margin-right:10px;
+
+	
+}
+
+.z1{
+	
+ width:300px;
+ height:35px;
+ border-radius:20px;
+margin-left:40px;
+
+
+}
+
+
+.z3{
+
+ 
+width:100px;
+ height:35px;
+ border-radius:20px;
+ margin-left:20px;
+ font:bold 20px Z5,verdana,sans-serif;
+background:#687CEEB;
+cursor:pointer;
+
+
+
+
+}
+
+.z4{
+
+ width:100px;
+ height:35px;
+ border-radius:20px;
+ margin-top:-500px;
+margin-left:100px;
+ font:bold 20px Z5,verdana,sans-serif;
+background:#687CEEB;
+cursor:pointer;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+

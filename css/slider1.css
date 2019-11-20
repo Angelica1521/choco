@@ -1,0 +1,48 @@
+#slide { 
+position:relative; 
+width:950px; 
+height:100px;
+
+ }   
+ *{
+	margin:0px;
+	padding:0px;	  
+}
+
+
+body{
+	text-align:center;
+	background-image:url(../IMG/4.jpg);
+
+	}
+
+.uno{
+ color:white;
+ font:bold 30px Z5,verdana,sans-serif;
+}
+
+H3{
+	color:white;
+	font: 30px "Times New Roman", Times, serif;
+}
+
+.a1{
+	color:white;
+	font: 20px "Times New Roman", Times, serif;
+}
+
+.a2{
+	color:white;
+	font: 20px "Times New Roman", Times, serif;
+}
+
+.x1{
+	color:white;
+	font: 20px "Times New Roman", Times, serif;
+}
+.x2{
+	color:white;
+	font: 20px "Times New Roman", Times, serif;
+}
+
+

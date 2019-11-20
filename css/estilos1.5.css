@@ -1,0 +1,41 @@
+*{
+	margin:0px;
+	padding:0px;	  
+}
+		    
+
+body{
+	text-align:center;
+	background-image:url(../IMG/m11.jpg);
+	background:66CC66;
+
+	}
+
+
+.v{
+	color:red;
+	font-style: italic;
+}
+
+.uno{
+color:#FF1493;
+ font:bold 30px Z5,verdana,sans-serif;
+
+}
+
+.dos{
+color:black;
+ font:bold 25px Z5,verdana,sans-serif;
+}
+
+
+.p1{
+	height:100px;
+	width:200px;
+	margin-left:20px;
+	margin-top:20px;
+
+}
+
+
+	
